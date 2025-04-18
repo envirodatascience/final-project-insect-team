@@ -1,6 +1,9 @@
 ## Insect team read me
 TODO: format this and add more detail, description of each file
 
+*File manifest* (will move to end later)
+* ypm_ct_ent_taxo_summaries_20250418.csv: datasheet with species richness for all insects (total_richness), Lepidoptera (butterflies), Coleoptera (beetles), Nymphalidae (brush footed butterflies), Papilionidae (swallowtail butterflies), Apidae (bees), and Noctuidae (owlet moths) from 1900-2024.
+
 Project statement: 
 Butterflies (Nymphalidae insect family) beyond being beautful creatures are major pollinators of the world’s wild and domesticated 
 flowering plants, and all stages of their life cycle are important in food security and ecosystem stability. Alarmed by the decreasing 
