@@ -8,7 +8,7 @@ and ecosystem stability. Populations have declined over recent decades, thus we 
 Changes in temperature and precipitation over the past 50 years have significantly influenced the distribution and population density of Nymphalidae species in Connecticut.
 
 
-## **File Manifest** (will move to end later)
+## File Manifest
 * 01_precipitation_data.ipynb
   * download, clean, and summarize NOAA precipitation data
 * 02_temperature_data.ipynb
@@ -42,6 +42,6 @@ Changes in temperature and precipitation over the past 50 years have significant
   * output from 04_climate_insects_analyses_figures.ipynb
 
 ## Original Datasets: 
-Entomology: https://www.gbif.org/dataset/96404cc2-f762-11e1-a439-00145eb45e9a/activity
-NOAA: https://www.ncei.noaa.gov/cdo-web/datasets
+YPM Insects: https://www.gbif.org/dataset/96404cc2-f762-11e1-a439-00145eb45e9a/activity \
+NOAA: https://www.ncei.noaa.gov/cdo-web/datasets \
 Link to Google Doc: https://docs.google.com/document/d/1qb_u7YNPmGLWlOS4u_9a4-hSig6mMN954YvEJOMVJAU/edit?usp=sharing
