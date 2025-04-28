@@ -7,9 +7,8 @@ and ecosystem stability. Populations have declined over recent decades, thus we 
 ## Hypothesis:
 Changes in temperature and precipitation over the past 50 years have significantly influenced the distribution and population density of Nymphalidae species in Connecticut.
 
-
 ## File Manifest
-* 01_precipitation_data.ipynb
+* 01_Precipitation_data.ipynb
   * download, clean, and summarize NOAA precipitation data
 * 02_temperature_data.ipynb
   * download, clean, and summarize NOAA temperature data
@@ -21,7 +20,7 @@ Changes in temperature and precipitation over the past 50 years have significant
   * map US-level insect data patterns
 * noaa_precip_yearly_ct.csv
   * summarized yearly precipitation data for CT
-  * output from 01_precipitation_data.ipynb
+  * output from 01_Precipitation_data.ipynb
   * input to 04_climate_insects_analyses_figures.ipynb
 * temp_data.csv
   * all temperature data for CT
@@ -35,7 +34,7 @@ Changes in temperature and precipitation over the past 50 years have significant
   * output from 03_ypm_insect_downloading_cleaning.ipynb
   * input to 05_insect_spatial_analysis.ipynb
 * ypm_ct_ent_taxo_summaries_20250418.csv
-  * datasheet with species richness for all insects (total_richness), Lepidoptera (butterflies), Coleoptera (beetles), Nymphalidae (brush footed butterflies), Papilionidae (swallowtail butterflies), Apidae (bees), and Noctuidae (owlet moths) from 1900-2024.
+  * datasheet with number of species for all insects (total_richness), Lepidoptera (butterflies), Coleoptera (beetles), Nymphalidae (brush footed butterflies), Papilionidae (swallowtail butterflies), Apidae (bees), and Noctuidae (owlet moths) from 1900-2024.
   * output from 04_climate_insects_analyses_figures.ipynb
 * CT_insect_climate_data.csv
   * joined climate and insect data for each year in CT
@@ -44,5 +43,5 @@ Changes in temperature and precipitation over the past 50 years have significant
 ## Original Datasets: 
 YPM Insects: https://www.gbif.org/dataset/96404cc2-f762-11e1-a439-00145eb45e9a/activity \
 NOAA: https://www.ncei.noaa.gov/cdo-web/datasets \
-US Census Data: https://github.com/envirodatascience/ENVS-617-Class-Data/raw/main/tl_2020_us_state.zip \
-Link to Google Doc: https://docs.google.com/document/d/1qb_u7YNPmGLWlOS4u_9a4-hSig6mMN954YvEJOMVJAU/edit?usp=sharing
+US Census Data (for state boundaries): https://github.com/envirodatascience/ENVS-617-Class-Data/raw/main/tl_2020_us_state.zip \
+Link to Google Doc (group project notes): https://docs.google.com/document/d/1qb_u7YNPmGLWlOS4u_9a4-hSig6mMN954YvEJOMVJAU/edit?usp=sharing
