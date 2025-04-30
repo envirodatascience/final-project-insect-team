@@ -44,4 +44,5 @@ Changes in temperature and precipitation over the past 50 years have significant
 YPM Insects: https://www.gbif.org/dataset/96404cc2-f762-11e1-a439-00145eb45e9a/activity \
 NOAA: https://www.ncei.noaa.gov/cdo-web/datasets \
 US Census Data (for state boundaries): https://github.com/envirodatascience/ENVS-617-Class-Data/raw/main/tl_2020_us_state.zip \
+Link to Presentation slides: https://docs.google.com/presentation/d/1MQ6CyFeu4wIqnG13GZFW3jJMG89N_2ru/edit?usp=sharing&ouid=112633141429842355591&rtpof=true&sd=true \
 Link to Google Doc (group project notes): https://docs.google.com/document/d/1qb_u7YNPmGLWlOS4u_9a4-hSig6mMN954YvEJOMVJAU/edit?usp=sharing
